@@ -1,2 +1,1 @@
-# Hello-World
-This is a test repository
+The second test.
